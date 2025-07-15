@@ -1,0 +1,7 @@
+run through selenium IDE using firefox browser.
+alternatively run through command line :
+ selenium-side-runner -c "browserName=firefox" moxymind/task01/moxymind.side
+(path may be needed to change depending on where you save file)
+
+
+ 
